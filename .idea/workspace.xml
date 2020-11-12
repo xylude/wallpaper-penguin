@@ -19,18 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65dd755a-9e49-48ff-87db-c644044ac72e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start-wallpaper-penguin.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="65dd755a-9e49-48ff-87db-c644044ac72e" name="Default Changelist" comment="moved stuff around a bit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/wolfgang-hasselmann-47ezaBIKFuQ-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/defaultWallpaper/image.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/defaultWallpaper/satellite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/defaultWallpaper/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/defaultWallpaper/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/defaultWallpaper/thumbnail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kill-wallpaper-process.sh" beforeDir="false" afterPath="$PROJECT_DIR$/kill-wallpaper-penguin.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallpaper-manager.gjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/wallpaper-manager.gjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +63,16 @@
       <updated>1605146946427</updated>
       <workItem from="1605146947457" duration="930000" />
       <workItem from="1605147913284" duration="336000" />
-      <workItem from="1605148255554" duration="578000" />
+      <workItem from="1605148255554" duration="1135000" />
     </task>
+    <task id="LOCAL-00001" summary="moved stuff around a bit">
+      <created>1605148914771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605148914771</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +88,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="moved stuff around a bit" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved stuff around a bit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1182" y="472" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1605148916100">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1182" y="472" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.2560.1413/2560.0.2560.1440@0.27.2560.1413" timestamp="1605148916100" />
   </component>
 </project>
