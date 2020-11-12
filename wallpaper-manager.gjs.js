@@ -103,11 +103,11 @@ App.prototype.attachWallpapers = function (monitorConfigs) {
 		const webView = new WebKit2.WebView();
 		webView.set_settings(this.getSettings());
 
-		const wallpaperLocation = monitorConfigs[i] ? `file://${monitorConfigs[i]}/index.html` : `file://${path}/defaultWallpaper/index.html`
+		const wallpaperLocation = monitorConfigs[i]
+			? `file://${monitorConfigs[i]}/index.html`
+			: `file://${path}/defaultWallpaper/index.html`;
 
-		webView.load_uri(
-			wallpaperLocation
-		);
+		webView.load_uri(wallpaperLocation);
 
 		window.add(webView);
 
