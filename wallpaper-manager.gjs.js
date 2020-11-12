@@ -84,7 +84,6 @@ App.prototype.attachWallpapers = function (monitorConfigs) {
 	for (let i = 0; i < monitors; i++) {
 		const monitor = display.get_monitor(i);
 		const { width, height, x, y } = monitor.get_geometry();
-		// print(x, y, width, height, monitor.is_primary());
 
 		const window = new Gtk.ApplicationWindow({
 			application: this.application,
@@ -105,8 +104,6 @@ App.prototype.attachWallpapers = function (monitorConfigs) {
 		webView.set_settings(this.getSettings());
 
 		const wallpaperLocation = monitorConfigs[i] ? `file://${monitorConfigs[i]}/index.html` : `file://${path}/defaultWallpaper/index.html`
-
-		print(wallpaperLocation)
 
 		webView.load_uri(
 			wallpaperLocation

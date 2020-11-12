@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="65dd755a-9e49-48ff-87db-c644044ac72e" name="Default Changelist" comment="" />
+    <list default="true" id="65dd755a-9e49-48ff-87db-c644044ac72e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start-wallpaper-penguin.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/wolfgang-hasselmann-47ezaBIKFuQ-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/defaultWallpaper/image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/defaultWallpaper/satellite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/defaultWallpaper/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/defaultWallpaper/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/defaultWallpaper/thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kill-wallpaper-process.sh" beforeDir="false" afterPath="$PROJECT_DIR$/kill-wallpaper-penguin.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallpaper-manager.gjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/wallpaper-manager.gjs.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kAcgRDZXczynngwUipz3se8xxC" />
   <component name="ProjectViewState">
@@ -15,13 +48,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/D:/git/wallpaper-penguin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/defaultWallpaper" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$USER_HOME$/D:/git/wallpaper-penguin" />
     </key>
@@ -35,10 +71,23 @@
       <option name="presentableId" value="Default" />
       <updated>1605146946427</updated>
       <workItem from="1605146947457" duration="930000" />
+      <workItem from="1605147913284" duration="336000" />
+      <workItem from="1605148255554" duration="578000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

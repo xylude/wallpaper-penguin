@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/D:/git/wallpaper-penguin/.idea/wallpaper-penguin.iml" filepath="$USER_HOME$/D:/git/wallpaper-penguin/.idea/wallpaper-penguin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wallpaper-penguin.iml" filepath="$PROJECT_DIR$/.idea/wallpaper-penguin.iml" />
     </modules>
   </component>
 </project>
