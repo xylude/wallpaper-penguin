@@ -4,6 +4,10 @@ This app will allow you to create html live wallpapers for your Gnome desktop. I
 
 Currently, the application is very simple. I'd be interested in continuing work on it if it gets some usage (and if I could find someone to help me learn more about Gjs).
 
+## Dependencies
+
+You will need gjs installed on your system to use this. Gnome 3 comes with it pre-installed. If the script doesn't work, refer to the installation instructions here: [https://gjs-tutorial.readthedocs.io/en/latest/install.html](https://gjs-tutorial.readthedocs.io/en/latest/install.html)
+
 ## Usage
 
 **To start the live wallpapers**
