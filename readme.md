@@ -31,8 +31,8 @@ If you have 2 monitors, you would have a config.json that looks something like t
 ```json
 {
   "monitors": [
-	  { wallpaperLocation: "/home/user/live-wallpapers/mywallpaper" },
-	  { wallpaperLocation: "/home/user/live-wallpapers/myotherwallpaper" }
+	  { "wallpaperLocation": "/home/user/live-wallpapers/mywallpaper" },
+	  { "wallpaperLocation": "/home/user/live-wallpapers/myotherwallpaper" }
   ]
 }
 ```
